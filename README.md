@@ -21,9 +21,9 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 - ⚓You can follow ME😁.
 
 # ❄Format of 5th line in rules
-<pre>Github username: Your Username
-Aim: Your Repo aim according to your program
-Date: Date of Coding
+<pre>// Github username: Your Username
+// Aim: Your Repo aim according to your program
+// Date: Date of Coding
 
 // start coding
 
