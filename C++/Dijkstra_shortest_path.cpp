@@ -1,3 +1,8 @@
+
+// Github username: Abhishek-5854
+// Aim: Solution for Dijkstra's shortest path algorithm
+// Date: 2 october 2022
+
 //  Dijkstra's  shortest path
 #include <iostream>
 using namespace std;
