@@ -31,7 +31,7 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 
 </pre>
 
-### If your program have class try to use your class with its objects
+### ⚡If your program have class try to use your class with its objects
 
 ### ⚡If you are creating any PR then Add your name in CONTRIBUTORS.md file 
 
