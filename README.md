@@ -25,7 +25,7 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 # ❄Prgrams
 - ⚡Any Game
 - ⚡Create any pattern
-- ⚡Make any algorithm
+- ⚡Make any algorithm (exclude calculator or related to it)
 - ⚡Print 1 to 100 without using numbers
 - ⚡Make calculator without using operators in program
 - ⚡Calculate fibonacci series with classes
