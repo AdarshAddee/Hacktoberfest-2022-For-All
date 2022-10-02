@@ -12,6 +12,7 @@
 | Name | Github Link | Email ID |
 | ------|----------|---------- |
 | Adarsh Addee | <a href="https://github.com/AdarshAddee">Adarsh Addee</a> | <a href="mailto:example@gmail.com">E-Mail</a> |
+| Anish Shilpakar | <a href="https://github.com/juju2181">Anish Shilpakar</a> | <a href="mailto:contact@shilpakaranish.com.np">E-Mail</a> |
 
 
 
