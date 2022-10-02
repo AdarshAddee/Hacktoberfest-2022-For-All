@@ -17,17 +17,19 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 - ⚓Name your file related to your topic.
 - ⚓Put your files in correct folder like .py in Python, .js in Javascript etc.
 - ⚓Make sure you have entered your github - username, aim and date in your file as a comment.
-- ⚓Make sure you have entered your name in CONTRIBUTORS.md file as mentioned (It's your responsibility).
+- ⚓Make sure you have entered your name in CONTRIBUTORS.md file as mentioned (It's your responsibility) (optional).
 - ⚓You can follow ME😁.
 
 # ❄Format of 5th line in rules
-<pre>Github username: AdarshAddee
+<pre>Github username: Your Username
 Aim: Your Repo aim according to your program
 Date: Date of Coding
 
 // start coding
 
 </pre>
+
+### ⚡If you are creating any PR then Add your name in CONTRIBUTORS.md file 
 
 ## 🛡Follow rules strictly for successful merged PR!!!
 
