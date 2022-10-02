@@ -20,6 +20,15 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 - ⚓Make sure you have entered your name in CONTRIBUTORS.md file as mentioned (It's your responsibility).
 - ⚓You can follow ME😁.
 
+# ❄Format of 5th line in rules
+<pre>Github username: AdarshAddee
+Aim: Your Repo aim according to your program
+Date: Date of Coding
+
+// start coding
+
+</pre>
+
 ## 🛡Follow rules strictly for successful merged PR!!!
 
 # ❄Prgrams
