@@ -10,6 +10,8 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 - 💻 Python
 - 💻 Java
 - 💻 Javascript
+- 💻 Rust
+- 💻 Golang
 
 # 🛡Rules to Contribute
 - ⚓Star this repo to get latest updates.
@@ -28,6 +30,8 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 // start coding
 
 </pre>
+
+### ⚡If your program have class try to use your class with its objects
 
 ### ⚡If you are creating any PR then Add your name in CONTRIBUTORS.md file 
 
