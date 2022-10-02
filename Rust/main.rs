@@ -1,5 +1,5 @@
 // Github: Username
-// Aim: Aim acc. to program
+// Aim: Greet everyone
 // Date: Date of code
 
 fn main() {
