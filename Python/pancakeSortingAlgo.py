@@ -1,3 +1,7 @@
+# Github username: ajjayymahato
+# Aim: Pancake Sorting Algorithm
+# Date: 02/10/2022
+
 # Python3 program to
 # sort array using
 # pancake sort
