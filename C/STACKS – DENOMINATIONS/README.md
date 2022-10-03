@@ -1,3 +1,4 @@
+# Question:
 Frankinson has N number of coins in his pocket. Coins are of denominations of 1, 2, 5 and 10.
 
 He keeps all the coins on the table one above the other. Then he picks out one coin at a time and counts them of specific denomination.
