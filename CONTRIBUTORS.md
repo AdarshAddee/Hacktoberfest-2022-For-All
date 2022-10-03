@@ -15,7 +15,7 @@
 | Anish Shilpakar | <a href="https://github.com/juju2181">Anish Shilpakar</a> | <a href="mailto:contact@shilpakaranish.com.np">E-Mail</a> |
 | Mudit Mahajan | <a href="https://github.com/muditmahajan21">Mudit Mahajan</a> | <a href="mailto:muditmahajan21@gmail.com">E-Mail</a> |
 | Wibowo | <a href="https://github.com/bowouhuy">Wibowo</a> | <a href="mailto:bowouhuuy@gmail.com">E-Mail</a> |
-
+| Akash Nayak | <a href="https://github.com/codedmachine111">Akash Nayak</a> | <a href="mailto:charlesbabbage1709@gmail.com">E-Mail</a> |
 
 
 
