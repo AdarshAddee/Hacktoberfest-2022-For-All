@@ -1,5 +1,5 @@
 # Github username: Asadaaaaa
-# Aim: https://github.com/Asadaaaaa/Hacktoberfest-2022-For-All/blob/main/Python/ipHostname.py
+# Aim: Print a ip address and hostname of your device
 # Date: 10/03/22
 
 # start coding
