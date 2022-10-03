@@ -1,5 +1,5 @@
 # Github username: Asadaaaaa
-# Aim: 
+# Aim: https://github.com/Asadaaaaa/Hacktoberfest-2022-For-All/blob/main/Python/ipHostname.py
 # Date: 10/03/22
 
 # start coding
