@@ -10,6 +10,7 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 - 💻 Python
 - 💻 Java
 - 💻 Javascript
+- 💎 Ruby
 - 💻 Rust
 - 💻 Golang
 
@@ -33,11 +34,11 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 
 ### ⚡If your program have class try to use your class with its objects
 
-### ⚡If you are creating any PR then Add your name in CONTRIBUTORS.md file 
+### ⚡If you are creating any PR then Add your name in CONTRIBUTORS.md file
 
 ## 🛡Follow rules strictly for successful merged PR!!!
 
-# ❄Prgrams
+# ❄Programs
 - ⚡Any Game
 - ⚡Create any pattern
 - ⚡Make any algorithm (exclude calculator or related to it)
@@ -57,7 +58,7 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 # 🛡 Strictly follow rules to contribute for successful merged PR!!!
 
 # Note
-All contributors who have followed the rules to contribute get successfully merged PR. Don't forget to follow!!! 
+All contributors who have followed the rules to contribute get successfully merged PR. Don't forget to follow!!!
 
 Have some patience to get successfully merged PR. Keep Patience!!!
 
