@@ -1,6 +1,6 @@
-Github username: karthik2607
-Aim: C program for implementation of sorting using merge sort algo
-Date: 04/10/2022
+//Github username: karthik2607
+//Aim: C program for implementation of sorting using merge sort algo
+//Date: 04/10/2022
 #include <stdio.h>
 
 void mergeSort(int i, int j, int arr[], int sorted[]) {
