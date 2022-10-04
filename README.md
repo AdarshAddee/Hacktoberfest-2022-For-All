@@ -6,6 +6,7 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 # 🌟Languages
 - 💻 C
 - 💻 C++
+- 💻 Ruby
 - 💻 PHP
 - 💻 Python
 - 💻 Java
