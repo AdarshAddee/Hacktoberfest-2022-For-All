@@ -1,3 +1,6 @@
+// Github username: shivamvats2102
+// Aim: added a Hollow Pyramid pattern in c++
+// Date: 04-10-2022
 // CPP program to print a hollow pyramid pattern
 #include <iostream>
 using namespace std;
