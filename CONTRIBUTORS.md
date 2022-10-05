@@ -18,6 +18,7 @@
 | Yoni Saka | <a href="https://github.com/yonisaka">Yoni Saka</a> | <a href="mailto:yonisaka0@gmail.com">E-Mail</a> |
 | Abhishek | <a href="https://github.com/Unseen-firebrand">Abhishek</a> | <a href="mailto:abhishek112001mishra@gmail.com">E-Mail</a> |
 | Volodymyr Vasiutyk | <a href="https://github.com/vasvolodimir">Volodymyr</a> | <a href="mailto:volodymyr.vasiutyk@gmail.com">E-Mail</a> |
+| Shopi Nurhidayanti | <a href="https://github.com/shopie14">Shopi Nurhidayanti</a> | <a href="mailto:volodymyr.sh.pinh14@gmail.com">E-Mail</a> |
 
 
 
