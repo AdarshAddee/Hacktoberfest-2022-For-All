@@ -18,6 +18,7 @@
 | Yoni Saka | <a href="https://github.com/yonisaka">Yoni Saka</a> | <a href="mailto:yonisaka0@gmail.com">E-Mail</a> |
 | Abhishek | <a href="https://github.com/Unseen-firebrand">Abhishek</a> | <a href="mailto:abhishek112001mishra@gmail.com">E-Mail</a> |
 | Volodymyr Vasiutyk | <a href="https://github.com/vasvolodimir">Volodymyr</a> | <a href="mailto:volodymyr.vasiutyk@gmail.com">E-Mail</a> |
+| Himanshu Rai | <a href="https://github.com/HIMU-2001">Himanshu</a> | <a href="mailto:himanshuuu.2001@gmail.com">E-Mail</a> |
 
 
 
