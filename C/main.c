@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 int main(){
-  printf("Namaste 🙏 Bharat");
+  printf("This is Hacktober fest 2022 !!!");
   return 0;
   
 }
