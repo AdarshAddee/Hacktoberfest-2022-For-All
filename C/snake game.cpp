@@ -1,4 +1,8 @@
-// snake game
+// Github username: yujiitadori0
+// Aim: for entertainment purpose
+// Date: 23-10-2022
+
+// start coding
 #include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
